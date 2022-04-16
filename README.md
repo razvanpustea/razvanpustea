@@ -1,7 +1,7 @@
 Hi 👋 My name is Răzvan Puștea
 ==============================
 
-Training to be a Java developer
+I'm currently learning Java
 -------------------------------
 
 * 🌍  I'm based in Tulca, Bihor
